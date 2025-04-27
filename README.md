@@ -19,11 +19,13 @@
 •	Під час виконання обробляються можливі помилки запиту до API.
 
 Приклад роботи
+
 Анекдот:
 What does C.S. Lewis keep at the back of his wardrobe?
 Narnia business!
 
 Використані технології
+
 •	Python 3.x
 •	requests
 •	JSON
